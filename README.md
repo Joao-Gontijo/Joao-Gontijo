@@ -16,12 +16,14 @@
     <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
   <a href="https://www.javascript.com/">
     <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://vuejs.org/">
-    <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
      ><img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
+  <a href="https://vuejs.org/">
+    <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+  <a href="https://flutter.dev">
+    <img align="center" alt="Gontijo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a> 
 </div>
  
 ##
