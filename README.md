@@ -2,8 +2,8 @@
 #### Commits 
 <table>
   <td width="50%">  
-    <img width="370" src="https://github-readme-stats.vercel.app/api?username=Joao-Gontijo&count_private=true&show_icons=true&theme=dark"/>
-    <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gontijo&layout=compact&langs_count=6&theme=dark"/>  
+    <img width="370" src="https://github-readme-stats.vercel.app/api?username=jvgontijo&count_private=true&show_icons=true&theme=dark"/>
+    <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgontijo&layout=compact&langs_count=6&theme=dark"/>  
   </td>
   <td class="column">
       <a href="https://tenor.com/view/coding-gif-24297652" target="_blank">
