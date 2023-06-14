@@ -37,5 +37,4 @@
 
 #### Contato: 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-gontijo-a11492182/" target="_blank"><img height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://www.instagram.com/jv.gontijo" target="_blank"><img height="20" src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" target="_blank"/></a>
 </div>
